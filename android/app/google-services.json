@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909903790275",
+    "project_id": "authbook-ab412",
+    "storage_bucket": "authbook-ab412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909903790275:android:7e2ba7fec0df3c5b80a276",
+        "android_client_info": {
+          "package_name": "com.authbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909903790275-bj1lgb0ccu9ojvql086hd4k63h7cqpp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBROKQ-s57PQTdaK41nTUihccyAWQSzv18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909903790275-bj1lgb0ccu9ojvql086hd4k63h7cqpp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

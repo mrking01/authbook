@@ -21,6 +21,10 @@ class PhoneAuthScreen extends Component {
     return regexp.test(this.state.phone)
   }
   // kinggggg
+  validatePhoneNumber = () => {
+    var regexp = /^\+[0-9]?()[0-9](\s|\S)(\d[0-9]{8,16})$/
+    return regexp.test(this.state.phone)
+  }
 
   handleSendCode = () => {
     // Request to send OTP
